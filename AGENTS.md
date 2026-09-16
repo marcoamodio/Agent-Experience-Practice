@@ -25,6 +25,19 @@ Document interesting experimental observations in their context first. Do not au
 - Consider agent journeys and how the experience can be evaluated in context.
 - Treat Figma as a potential design surface for exploration and iteration within the practice, not merely as an output format.
 
+## Public / Private Boundary
+
+Agent Experience Practice is a curated public representation of the author's work, not a complete archive of their design knowledge or process. It serves partly as a portfolio, professional profile, and visible exploration of Agent Experience Design.
+
+- Show enough of the process to demonstrate how the author thinks, but do not document the entire design methodology.
+- Do not assume that every useful insight, framework, prompt, evaluation technique, skill, or internal process should be published.
+- Prefer curated examples and selected reasoning over exhaustive documentation.
+- Detailed know-how, reusable internal methods, raw research, prompts, unpublished skills, and experimental tooling may belong in a separate private workspace.
+- Before adding material that substantially exposes reusable design know-how, ask the author whether it should be public.
+- Public experiments should communicate the problem, relevant reasoning, decisions, outcomes, and learnings without necessarily exposing every step used to reach them.
+- Do not automatically copy material from private experimentation into this repository.
+- Treat publication as a deliberate design decision.
+
 ## Keep the repository minimal
 
 - Prefer small, inspectable changes.
