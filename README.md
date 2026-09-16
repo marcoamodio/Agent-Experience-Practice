@@ -1,6 +1,6 @@
 # Agent Experience Practice
 
-I'm Marco Amodio, an Experience Designer exploring experiences involving AI agents.
+A personal exploration of how we design experiences involving AI agents.
 
 The question behind the practice is:
 
